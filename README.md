@@ -1,4 +1,4 @@
-<img src="./src/assets/covidapp.png" width="350" title="balance app">
+<img src="./src/assets/covidapp.png" width="100%" title="balance app">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
